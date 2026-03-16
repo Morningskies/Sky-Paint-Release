@@ -1,6 +1,10 @@
 # SkyPaint Release
 Beta version releases of SkyPaint.
 
+<p align="center">
+  <img src="SkyPaintLogo.png" alt="SkyPaint logo" width="240" />
+</p>
+
 ## Features
 
 - Painting and editing tools including brush, eraser, fill, selection, and layer-based workflows.
