@@ -5,6 +5,12 @@ Beta version releases of SkyPaint.
   <img src="SkyPaintLogo.png" alt="SkyPaint logo" width="240" />
 </p>
 
+## Download links
+
+[Download for Windows](https://github.com/Morningskies/Sky-Paint-Release/releases/tag/Windows)
+
+[Download for MacOS](https://github.com/Morningskies/Sky-Paint-Release/releases/tag/MacOS)
+
 ## Features
 
 - Painting and editing tools including brush, eraser, fill, selection, and layer-based workflows.
